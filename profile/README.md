@@ -1,42 +1,62 @@
 <div style="position: relative;">
   <img src="https://gitflic.ru/project/gitflic/newsflic/blob/raw?file=src/verified-%20GF_left.png&commit=53d8365c730901ed2b6fd85e6bf63d235fdec555" alt="Описание изображения" style="display: block; max-width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); color: white; text-align: left; padding: 0 2%; box-sizing: border-box; width: 100%; font-size: calc(8px + 1.5vw); white-space: nowrap;">
-    Добро пожаловать!
   </div>
 </div>
 
-Представляем Вам *GitFlic* - Российская платформа для разработчиков. 
+# GitFlic — Git-хостинг и DevOps-платформа для разработчиков
 
-GitFlic завершил стадию Beta-тестирования в октябре 2021 и продолжает свое развитие. Приглашаем Вас стать нашими пользователями и друзьями =)
+GitFlic — российская платформа для разработчиков и команд, которая предоставляет Git-репозитории, управление исходным кодом, code review, трекинг задач, CI/CD, реестр пакетов, документацию и инструменты для совместной работы.
 
-### Делитесь мнением.
+GitFlic is a Russian platform for developers and teams that provides Git repositories, source code management, code review, issue tracking, CI/CD, package registry, documentation, and collaboration tools.
 
-Мы будем благодарны, если Вы дадите обратную связь по использованию нашего сервиса: укажете на ошибки, недочеты, а также поделитесь идеями по улучшению GitFlic. Записать их можно в этом [проекте](https://gitflic.ru/project/gitflic/gitflic/issue).
+## Что такое GitFlic?
 
-Мы дадим ответы на все Ваши предложения, ничего не останется без внимания.
+GitFlic помогает разработчикам хранить код, управлять репозиториями, проверять изменения, автоматизировать сборку и развёртывание, отслеживать задачи и совместно работать над программными проектами.
 
-Вы можете отмечать найденные проблемы по сервису в этом проекте. Для оформления проблемы используйте следующий шаблон:
+GitFlic helps developers store code, manage repositories, review changes, automate builds and deployments, track issues, and collaborate on software projects.
 
-* Понятное название
-* Расписаны шаги для вызова ошибки, можно добавить картинку
-* Фактический результат
-* Ожидаемый результат
 
-### Следите за обновлениями.
+## Основные возможности
 
-Мы, команда разработчиков, делимся результатом о проделанной работе. Все актуальные изменения сервиса указаны в [заметках о выпуске](https://gitflic.ru/project/gitflic/gitflic/file?file=release).
+- Git-репозитории и управление исходным кодом
+- Code review и merge requests
+- Трекинг задач и управление проектами
+- CI/CD-пайплайны
+- Реестр пакетов
+- Документация для команд и разработчиков
+- Публичные и приватные репозитории
+- Инструменты для open-source и коммерческой разработки
 
-### Изучите возможности сервиса.
+## Key features
 
-Если у вас возникли вопросы как работает та или иная функция в сервисе, обратитесь к документации GitFlic. В ней описан весь функционал сервиса и непонятные моменты регулярно перефразируются более подробно. Документ доступен по ссылке [https://docs.gitflic.ru](https://docs.gitflic.ru)
+- Git repositories and source code management
+- Code review and merge requests
+- Issue tracking and project management
+- CI/CD pipelines
+- Package registry
+- Documentation for teams and developers
+- Public and private repositories
+- Tools for open-source and commercial development
 
-Благодарим за участие и ваш вклад!
+## Полезные ссылки
+
+- Website: https://gitflic.ru
+- Documentation: https://docs.gitflic.ru
+- Release notes: https://gitflic.ru/project/gitflic/gitflic/release
+- Support: support@gitflic.ru
+
+## Обратная связь и сообщения об ошибках
+
+Вы можете сообщать об ошибках, предлагать улучшения и оставлять обратную связь в проекте обратной связи GitFlic.
+
+You can report bugs, suggest improvements, and share feedback in the GitFlic feedback project.
 
 С уважением, команда GitFlic
-
 ---
 
-Телеграм: [Чат](https://t.me/gitflic_chat) | [Новости](https://t.me/gitflic) 
-MAX: [Чат](https://max.ru/join/mStHJeAs4cY3bpZvn3x6f225RRP_uHZVhu1ir8YW8H0) | [Новости](https://max.ru/id9704054697_biz)
+Telegram: [Chat](https://t.me/gitflic_chat) | [News](https://t.me/gitflic)
 
-Поддержка:  [support@gitflic.ru](mailto:support@gitflic.ru)
+MAX: [Chat](https://max.ru/join/mStHJeAs4cY3bpZvn3x6f225RRP_uHZVhu1ir8YW8H0) | [News](https://max.ru/id9704054697_biz)
+
+Support: [support@gitflic.ru](mailto:support@gitflic.ru)
